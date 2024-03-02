@@ -31,7 +31,7 @@ Unlike past successes, these present challenges will not be overcome by biomedic
 
 <img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig1.PNG" width="100%" alt="PluralHealth">
 
-**Figure 1. The Relational Concept of health**
+**Figure 1. The Relational Concept of Health**
 
 ### Blockers to Healthy Flourishing
 &nbsp;&nbsp;&nbsp;&nbsp; The blockers to further transformative progress in health can be summarized as:
